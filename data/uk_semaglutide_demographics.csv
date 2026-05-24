@@ -1,0 +1,5 @@
+brand_name,primary_indication,delivery_route,uk_target_population,estimated_users_2026,data_source
+Ozempic,Type 2 Diabetes,Subcutaneous Injection (Weekly),4500000,250000,NHS OpenPrescribing / Estimation
+Rybelsus,Type 2 Diabetes,Oral Tablet (Daily),4500000,50000,NHS OpenPrescribing / Estimation
+Wegovy,Obesity & Cardiovascular Risk,Subcutaneous Injection (Weekly),12000000,150000,NICE Guidance / NHS England Deal
+Initial commit of semaglutide market schema
